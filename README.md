@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/resource-specific-least-privilege-boundary-explainer/
 
+Repository: https://github.com/mizcausevic-dev/resource-specific-least-privilege-boundary-explainer
+
 ## What this is
 
 An interactive anatomy plate for Resource-Specific Least-Privilege Boundary. Play, scrub, or jump the five stages. The same frame always draws the same picture.
